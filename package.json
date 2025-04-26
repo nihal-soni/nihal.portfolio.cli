@@ -1,0 +1,30 @@
+{
+  "name": "nihal.portfolio.cli",
+  "version": "1.0.0",
+  "description": "A terminal based portfolio",
+  "keywords": [
+    "portfolio",
+    "cli",
+    "terminal",
+    "developer",
+    "resume"
+  ],
+  "license": "ISC",
+  "author": "nihal.dev",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "nihal": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "boxen": "^8.0.1",
+    "chalk": "^5.4.1",
+    "dotenv": "^16.5.0",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^12.6.0",
+    "ora": "^8.2.0"
+  }
+}
