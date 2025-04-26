@@ -7,12 +7,12 @@ A beautiful terminal-based portfolio with an interactive menu, built with **Node
 You can install and run this portfolio using the `npx` command:
 
 ```bash
-npx nihal-portfolio-cli
+npx nihal.portfolio.cli
 
 Alternatively, you can install it globally:
 
 ```bash
-npm install -g nihal-portfolio-cli
+npm install -g nihal.portfolio-cli
 
 Usage
 After installation, simply run the following command to start your portfolio:
