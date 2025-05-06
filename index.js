@@ -21,7 +21,7 @@ const portfolio = {
   name: 'NIHAL SONI',
   role: 'Full Stack Developer | Open Source Contributor | Tech Enthusiast',
   status: '🚀 Open to Collaborations 🚀',
-  location: '📍 Satna, Madhya Pradesh, India',
+  location: '📍 Bangalore, Karnatka, India',
   time: getCurrentTime(),
   date: getCurrentDate(),
   skills: ['JavaScript', 'React', 'Node.js', 'TypeScript', 'MongoDB', 'Next.js'],
